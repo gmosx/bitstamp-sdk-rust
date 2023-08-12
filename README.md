@@ -1,6 +1,6 @@
 # Bitstamp SDK
 
-A Rust SDK for working with [Bitstamp](https://www.bitstamp.net/api/) APIs.
+A Rust SDK for working with the [Bitstamp API](https://www.bitstamp.net/api/).
 
 This project is an *unofficial*, community-driven effort.
 
