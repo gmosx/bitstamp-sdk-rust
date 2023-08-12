@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["bitstamp_client_ws"]
