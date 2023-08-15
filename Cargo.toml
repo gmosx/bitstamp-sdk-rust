@@ -1,3 +1,3 @@
 [workspace]
 
-members = ["bitstamp_client_ws"]
+members = ["bitstamp_ws_client"]

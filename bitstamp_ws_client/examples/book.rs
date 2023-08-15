@@ -1,4 +1,4 @@
-use bitstamp_client_ws::client::Client;
+use bitstamp_ws_client::Client;
 use futures::StreamExt;
 
 #[tokio::main]

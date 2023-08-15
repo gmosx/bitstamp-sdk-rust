@@ -9,6 +9,14 @@ This project is an *unofficial*, community-driven effort.
 This work is under active development (pre-alpha) and the API is expected to
 change. It's not considered ready for use in production.
 
+## Links
+
+Additional Rust SDKs for exchanges:
+
+- [XRPL SDK for Rust](https://github.com/gmosx/xrpl-sdk-rust)
+- [Kraken SDK for Rust](https://github.com/gmosx/kraken-sdk-rust)
+- [Binance SDK for Rust](https://github.com/gmosx/binance-sdk-rust)
+
 ## Contributing
 
 Pull requests, issues and comments are welcome! Make sure to add tests for new features and bug fixes.

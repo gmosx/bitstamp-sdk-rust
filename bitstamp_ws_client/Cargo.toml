@@ -1,9 +1,9 @@
 [package]
-name = "bitstamp_client_ws"
-description = "A Rust SDK for working with the Bitstamp API"
-version = "0.2.0"
+name = "bitstamp_ws_client"
+description = "A Rust client for the Bitstamp WebSocket API"
+version = "0.3.0"
 license = "Apache-2.0"
-repository = "https://github.com/gmosx/bitstamp_sdk_rust/tree/main/bitstamp_client_ws"
+repository = "https://github.com/gmosx/bitstamp-sdk-rust/tree/main/bitstamp_client_ws"
 keywords = ["bitstamp", "websocket", "client"]
 authors = ["Georgios Moschovitis <george.moschovitis@gmail.com>"]
 edition = "2021"
